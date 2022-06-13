@@ -1,4 +1,16 @@
 {"0": {
+    "doc": "Bunrs Bog Field Site Map",
+    "title": "Bunrs Bog Field Site Map",
+    "content": "# Bunrs Bog Field Site Map This map shows our field sites in Burns Bog. You can use this map to navigate the Bog on mobile by opening it in a [new tab](https://ubc-micromet.github.io/FieldSiteMaps/). Your browser does not support iframes. ",
+    "url": "/docs/BB_Site_Map.html",
+    "relUrl": "/docs/BB_Site_Map.html"
+  },"1": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": "# Projects This page can be used to feature various projects/pages (ie. the field site map.) ",
+    "url": "/docs/Projects.html",
+    "relUrl": "/docs/Projects.html"
+  },"2": {
     "doc": "Home",
     "title": "Home",
     "content": "## About Our research group explores the physical, biological and chemical processes that control trace gas, water and energy fluxes between the land surface and the atmosphere. We investigate how land‑atmosphere exchanges of greenhouse gas fluxes respond to a changing climate and disturbances, and how we can modify land management practices for climate change adaptation and mitigation. We combine micrometeorological measurements with remote sensing and modelling to understand soil-plant-atmosphere interactions across a range of spatial and temporal scales. We collaborate with a broad group of researchers and institutions to help inform and advance climate policy. ",
