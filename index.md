@@ -3,7 +3,6 @@ layout: default
 title: Home
 # has_children: True
 nav_order: 1
-
 ---
 
 ## About

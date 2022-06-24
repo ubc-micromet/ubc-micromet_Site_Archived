@@ -7,4 +7,4 @@ nav_order: 2
 
 # Projects
 
-This page can be used to feature various projects/pages (ie. the field site map.)
+This tab can be used to feature various projects/pages (e.g. the field site map).

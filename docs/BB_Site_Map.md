@@ -7,7 +7,7 @@ nav_order: 1
 
 # Bunrs Bog Field Site Map
 
-This map shows our field sites in Burns Bog.  You can use this map to navigate the Bog on mobile by opening it in a [new tab](https://ubc-micromet.github.io/FieldSiteMaps/).
+This map shows our field sites in Burns Bog.  You can use it to navigate within the Bog on a mobile device by opening it in a [new tab](https://ubc-micromet.github.io/FieldSiteMaps/).
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
