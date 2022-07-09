@@ -17,7 +17,7 @@ This Github Organization hosts code for flux processing, readme docs for our lab
 
 ## Territorial and Cultural Acknowledgement
 
-UBC Micromet works in the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Our field sites are located in the delta of the Statl̕əẃ (Sto:lo) River, aka the Fraser River.  This region encompass the traditional territories of a number of First Nation, including the:
+UBC Micromet works in the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Our field sites are located in the the Statl̕əẃ (Sto:lo) River Delta, aka the Fraser River Delta.  This region encompass the traditional territories of a number of First Nation, including the:
 * [xʷməθkʷəy̓əm (Musqueam)](https://native-land.ca/maps/territories/x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m/)
 * [sc̓əwaθenaɁɬ təməxʷ (Tsawwassen)](https://native-land.ca/maps/territories/tsawwassen-sc%cc%93%c9%99wa%ce%b8en/)
 * [kwantlen](https://native-land.ca/maps/territories/kwantlen/)* [Semiahmoo](https://native-land.ca/maps/territories/semiahmoo/)
