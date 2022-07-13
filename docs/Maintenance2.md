@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Annual Maintenance 
-parent: Flux Towers
-nav_order: 1
+title: Additoinal Procedures
+parent: Routine Maintenance Procedures
+grand_parent: Field Sites
+has_children: True
+nav_order: 3
 ---
 
 #  Annual Maintenance & Calibration

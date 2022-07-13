@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flux Towers
+title: Field Sites
 has_children: True
 nav_order: 2
 ---
