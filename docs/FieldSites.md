@@ -11,7 +11,7 @@ This map shows our field sites, indluding our two flux towers in Burns Bog and o
 
 
 <div style="overflow: hidden;
-  padding-top: 56.25%;
+  padding-top: 75%;
   position: relative">
   <iframe src="https://ubc-micromet.github.io/FieldSiteMaps/" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;

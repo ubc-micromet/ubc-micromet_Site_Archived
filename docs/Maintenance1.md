@@ -85,6 +85,7 @@ Head lamp																	|In fall/winter
 
 Task                                                       | Sites | Notes
 -----------------------------------------------------------|-------|-------------------------------------------------------
+**0**{: .label .label-blue}Check/clean Radiometers         | All   |[Clenaing procedures](Cleaning.md)
 **1**{: .label .label-blue}Clean IRGAs                     | All   |[Clenaing procedures](Cleaning.md)
 **2**{: .label .label-blue}Calibrate IRGAs                 | All   |[Calibration procedures](Calibration.md)
 **3**{: .label .label-blue}Check Rain Gauge                | All   |If clogged, unscrew top and clean funnel
