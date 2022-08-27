@@ -35,7 +35,7 @@ Check Field Log(s)                        |[BB1 & BB2](https://docs.google.com/s
 Book Micromet Truck                       |See Gcal **Add Link**
 Check Fire Rating													|Burns Bog Permit holders should get fire danger rating updates from - Andy.Gogel@metrovancouver.org
 Charge Field Laptop 				              |
-Review Field Safety Plan  	              | 
+Review Field Safety Plan  	              |Ensure you have [Safety Plan](https://docs.google.com/document/d/10oR-eGiVsKmVsdubLDZIrw4zpO6-J2H0/edit?usp=sharing&ouid=101091249538878226246&rtpof=true&sd=true) 
 
 
 ### **To Do**: Post & Link to field work safety plan.
@@ -82,6 +82,8 @@ Head lamp																	|In fall/winter
 # Tasks to Complete on Site
 
 ### **To Do**: Confirm?
+
+#### Check Battery Box for water
 
 Task                                                       | Sites | Notes
 -----------------------------------------------------------|-------|-------------------------------------------------------
