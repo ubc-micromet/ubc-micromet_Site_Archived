@@ -1,0 +1,191 @@
+I"�<h1 class="no_toc" id="cleaning-procedures">Cleaning Procedures</h1>
+
+<p>This page details the steps for cleaning the 7700 and 7200.  Always do the 7700 first, followed by the 7200.  You <strong>must</strong> clean the sensors before calibration.</p>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#getting-started" id="markdown-toc-getting-started">Getting Started</a>    <ol>
+      <li><a href="#to-do-add-pics-of-logger-box-at-each-each-site-for-reference" id="markdown-toc-to-do-add-pics-of-logger-box-at-each-each-site-for-reference"><strong>To Do</strong>: Add pics of logger box at each each site for reference.</a></li>
+    </ol>
+  </li>
+  <li><a href="#cleaning-the-li-7700" id="markdown-toc-cleaning-the-li-7700">Cleaning the LI 7700</a>    <ol>
+      <li><a href="#to-do-add--screenshot" id="markdown-toc-to-do-add--screenshot"><strong>To Do</strong>: Add  Screenshot</a></li>
+    </ol>
+  </li>
+  <li><a href="#cleaning-the-li-7200" id="markdown-toc-cleaning-the-li-7200">Cleaning the LI 7200</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h1 id="getting-started">Getting Started</h1>
+
+<p><strong class="label label-red">1</strong> Connect the laptop to the site system using the ethernet cable and dongle to the top box on the outside of the scaffolding. <strong>Note</strong>: remote connection via vinimet &amp; mobile hotspot can also work in a pinch.</p>
+
+<h3 id="to-do-add-pics-of-logger-box-at-each-each-site-for-reference"><strong>To Do</strong>: Add pics of logger box at each each site for reference.</h3>
+
+<p><br />
+<strong class="label label-red">2</strong> Retract the boom to access the flux sensors.  Loosen the two bolts securing the boom &gt; pull quick release tab&gt; slide boom in &gt; <em>Be mindful of cables</em></p>
+<ul>
+  <li><strong>For BB1 &amp; DSM</strong>: place stepladder on plywood on the ground.  Make sure it’s solid.</li>
+</ul>
+
+<p align="center">
+	<img src="images/7700_Cleaning.png" width="400" />
+</p>
+
+<ul>
+  <li><strong>For BB2 &amp; RBM</strong>: loosen the wing nut &gt; remove the fastening boot &gt; lift up sensors to reduce force needed to pull out the bolt &gt; rotate the arm to bring the sensors within reach from platform.  <em>Be careful</em> this can be quite difficult.</li>
+</ul>
+
+<p align="center">
+	<img src="images/7200_Cleaning1.png" width="400" />
+</p>
+
+<p><strong class="label label-red">3</strong> Do a visual inspection of the sensors and note/address any obvious issues.</p>
+
+<hr />
+
+<h1 id="cleaning-the-li-7700">Cleaning the LI 7700</h1>
+
+<p><strong class="label label-blue">1</strong> On the laptop, open the program ‘LI-7700’.  Click “Connect” » Ethernet » Select Instrument » Connect.  Open 2nd data page and look at the single graph with signal strength</p>
+
+<h3 id="to-do-add--screenshot"><strong>To Do</strong>: Add  Screenshot</h3>
+<p><br /></p>
+
+<p><strong class="label label-blue">2</strong> Wipe top and bottom windows with windshield cleaner (wet then dry cloth) until signal strength is sufficient:</p>
+
+<p align="center">
+	<img src="images/7700_Cleaning.png" width="400" />
+</p>
+
+<h2 align="center">Desired LI 7700 Signal Strength by Site</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Site</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BB1</td>
+      <td>High 50’s</td>
+    </tr>
+    <tr>
+      <td>BB2</td>
+      <td>Around 80</td>
+    </tr>
+    <tr>
+      <td>DMS</td>
+      <td>Around 70</td>
+    </tr>
+    <tr>
+      <td>RBM</td>
+      <td>…\</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong class="label label-blue">3</strong> Disconnect from the 7700 and close the LI-7700 program.</p>
+
+<hr />
+
+<h1 id="cleaning-the-li-7200">Cleaning the LI 7200</h1>
+
+<p><strong class="label label-green">1</strong> Power down the flux system.  Inside the power box, flip the 3 switches as shown in the table below.  The power is off when the red light is on.</p>
+
+<h2 align="center">EC Sensor Power Channels</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Site</th>
+      <th>LI-7200 flow module (pump)</th>
+      <th>LI-7700</th>
+      <th>LI-7550</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BB1</td>
+      <td>12</td>
+      <td>7</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>BB2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>DMS</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>RBM</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong class="label label-green">2</strong> Take the intake tube off by loosening the nut with a wrench.  The tube can then just hang loosely from the tower, disconnected from the 7200.  Then loosen the knobs on top of 7200 to release the top and take side part off to open the 7200 sensor head.  This can can hang next to the instrument while cleaning.</p>
+
+<p align="center">
+	<img src="images/7200_Cleaning1.png" width="400" />
+</p>
+<p align="center">
+	<img src="images/7200_Cleaning2.png" width="400" />
+</p>
+
+<p><strong class="label label-green">3</strong> Wipe top and bottom windows with windshield cleaner (wet then dry cloth).  Then clean intake filter with a wipe.</p>
+<ul>
+  <li>You may need to replace with a spare clean cap intake. If so: remove the foil wrap, loosen the metal ring with pliers and push it all the way to the tube, remove and replace the cap, use pliers to put the metal ring back on the cap</li>
+</ul>
+
+<p><strong class="label label-green">4</strong> Power system back up using switches listed in the table above. <strong>Note</strong>: The start up sequence is: <strong>1)</strong> LI-7200 pump, <strong>2)</strong> LI-7700, <strong>3)</strong> LI-7550.  Allow 90 seconds between each sensor when powering up. This order is important for proper start up.</p>
+<ul>
+  <li>Inside the Li-7550 box, the USB logging light should be flashing</li>
+</ul>
+
+<p><strong class="label label-green">5</strong> On the laptop open the LI 7x00 program and connect the the 7500 to check that the signal strength is sufficient:</p>
+
+<h2 align="center">Desired LI 7200 Signal Strength by Site</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Site</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BB1</td>
+      <td>About 100</td>
+    </tr>
+    <tr>
+      <td>BB2</td>
+      <td>About 103</td>
+    </tr>
+    <tr>
+      <td>DMS</td>
+      <td>About 102</td>
+    </tr>
+    <tr>
+      <td>RBM</td>
+      <td>…</td>
+    </tr>
+  </tbody>
+</table>
+:ET
