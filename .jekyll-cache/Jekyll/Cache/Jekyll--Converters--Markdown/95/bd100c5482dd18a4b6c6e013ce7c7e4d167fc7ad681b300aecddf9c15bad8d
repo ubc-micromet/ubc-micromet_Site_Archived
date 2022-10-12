@@ -1,0 +1,28 @@
+I"T<h1 id="git-vs-github--whats-the-difference">Git vs Github … whats the difference?</h1>
+
+<p>Git and Github are incredibly powerful and useful tools.  Unfortunately, they’re also pretty confusing and there is a steep learning curve.</p>
+
+<p><strong>Git</strong> is a version control system.  It lets you manage and track of code, keeping a history of changes each time you make a “commit”.</p>
+
+<p><strong>GitHub</strong> is a cloud-based service that hosts Git repositories.  It makes it easier for to share code and work with collaborate.</p>
+
+<h2 id="whats-a-repository">Whats a Repository?</h2>
+
+<p>A repository (or repo) is just a collection of code, files, data, etc. that are being tracked by Git.</p>
+
+<h2 id="common-git-commands">Common Git Commands</h2>
+
+<p><strong>init</strong>: Creates an empty repository</p>
+
+<p><strong>commit</strong>: Tells git to “save” a repository in its current state.</p>
+
+<p><strong>clone:</strong>: Tells git to “copy” a repository from a remote location (i.e. a github URL) to a local directory on you computer</p>
+
+<p><strong>pull:</strong>: Tells git to “download” any changes from a remote repository (i.e. a github URL you previously cloned) to your local copy</p>
+
+<p><strong>push</strong>: Tells git to “upload” any changes from a local (your computer) copy of a repository to a remote repository</p>
+
+<h3 id="help--i-broke-something-">Help!  I broke something :(</h3>
+
+<p>Sometimes you break something and need to know how to fix it.  Pardon the profanity … but <a href="https://ohshitgit.com/">Oh Shit, Git</a> is a really helpful resource.</p>
+:ET
