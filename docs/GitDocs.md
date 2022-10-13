@@ -13,7 +13,7 @@ Git and Github are incredibly powerful and useful tools.  Unfortunately, they're
 
 **Git** is a version control system.  It lets you manage and track of code, keeping a history of changes each time you make a "commit".
 
-**GitHub** is a cloud-based service that hosts Git repositories.  It makes it easier for to share code and work with collaborate.  
+**GitHub** is a cloud-based service that hosts Git repositories.  It makes it easier for to share code and work with collaborators.  
 
 ## Whats a Repository?
 
@@ -34,3 +34,11 @@ A repository (or repo) is just a collection of code, files, data, etc. that are 
 ### Help!  I broke something :(
 
 Sometimes you break something and need to know how to fix it.  Pardon the profanity ... but [Oh Shit, Git](https://ohshitgit.com/) is a really helpful resource.
+
+
+<!-- For next time
+
+- Branch & Merging
+- Resotring
+- Conflic Resolution 
+ -->
