@@ -12,11 +12,9 @@ Our research group explores the physical, biological and chemical processes that
 
 ## Our Github
 
-This Github Organization hosts code for flux processing, readme docs for our lab, and various other bits of information like data maybe? 
+This Github Organization hosts code for flux processing, README docs for our lab, and various other bits of information like data maybe? 
 
 ## Territorial and Cultural Acknowledgement
 
-UBC Micromet is based out of the University of British Columbia, which traditional, ancestral, and unceded  on xʷməθkʷəy̓əm (Musqueam) teritory.  Our field sites are located in the the Statl̕əẃ (Sto:lo) River Delta (aka the Fraser River Delta).  This area encompass the traditional territories of a number of First Nations, including the: xʷməθkʷəy̓əm, Stó:lō, sc̓əwaθenaɁɬ təməxʷ (Tsawwassen), kwantlen, Semiahmoo, Stz'uminus, Á,LEṈENEȻ ȽTE (W̱SÁNEĆ), and sq̓əc̓iy̓aɁɬ təməxʷ (Katzie) people.
-
-### To Do
-Flush out a better acknowledgement.
+UBC Micromet is based out of the University of British Columbia, which traditional, ancestral, and unceded  on xʷməθkʷəy̓əm (Musqueam) teritory.  Our field sites are located in the the Statl̕əẃ (Sto:lo) River Delta (aka the Fraser River Delta).  This area encompass the traditional territories of a number of First Nations, including the: xʷməθkʷəy̓əm, Stó:lō, sc̓əwaθenaɁɬ təməxʷ (Tsawwassen), kwantlen, Semiahmoo, Stz'uminus, Á,LEṈENEȻ ȽTE (W̱SÁNEĆ), and sq̓əc̓iy̓aɁɬ təməxʷ (Katzie) people.  For more information on Indigenous territories around the world, check out [NativeLand.ca](https://native-land.ca/).  To learn more about why land acknowledgements are important, you can see this [page](https://geos270.github.io/Syllabus/docs/Acknowledgement.html). 
+* Update link or add info page to this site?

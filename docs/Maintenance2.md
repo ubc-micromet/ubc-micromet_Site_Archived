@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Additoinal Procedures
+title: Additional Procedures
 parent: Routine Maintenance Procedures
-grand_parent: Field Sites
+grand_parent: Documentation
 has_children: True
 nav_order: 3
 ---

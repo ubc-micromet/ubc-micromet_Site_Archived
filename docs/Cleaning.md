@@ -2,7 +2,7 @@
 layout: default
 title: Cleaning Procedures
 parent: Routine Maintenance Procedures
-grand_parent: Field Sites
+grand_parent: Documentation
 has_children: True
 nav_order: 1
 ---

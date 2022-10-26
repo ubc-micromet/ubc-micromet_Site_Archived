@@ -26,6 +26,8 @@ A repository (or repo) is just a collection of code, files, data, etc. that are 
 
 **commit**: Tells git to "save" a repository in its current state.
 
+**status**: Checks to see if there are any "untracked" files in your workspace.
+
 **clone:**: Tells git to "copy" a repository from a remote location (i.e. a github URL) to a local directory on you computer
 
 **pull:**: Tells git to "download" any changes from a remote repository (i.e. a github URL you previously cloned) to your local copy
@@ -54,10 +56,21 @@ Add Git Branch Name to Terminal Prompt [(Linux/Mac)](https://gist.github.com/jos
 
 Sometimes you break something and need to know how to fix it.  Pardon the profanity ... but [Oh Shit, Git](https://ohshitgit.com/) is a really helpful resource.
 
+# More Tasks & Features
 
-<!-- For next time
+**Issues**: Opening issues on Github allows us to delegate work, discuss task and keep notes on various features.
+* They can be labeled as bugs, upgrade requests, etc.  
+* Issues can be assigned to one or more members of the organization, and you can leave comments to discuss issues.
+* An issue remains open until they are "closed".
 
-- Branch & Merging
-- Resotring
-- Conflic Resolution 
- -->
+**Branching**: is a way to create a separate workspace to work on updates, test features, and break things (safely) without affecting the "main" branch.  We'll rely on branches and "branch protection" rules to keep the main (working) branches of repositories safe.  More info can be found [here](https://www.atlassian.com/git/tutorials/using-branches)
+
+* You can use "git branch" to list all existing branches
+* You can use "git checkout" to switch between branches
+	* You can also use "git checkout" to create an new branch
+
+**Merging**: is a way to combine branches.  An in depth discussion can be found [here](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+
+**Conflict Resolution**: This is a tricky task and usually requires a case by case approach to sort things out.  We'll undoubtedly need to do some conflict resolution down the line but lets not worry aoubt it for now.
+
+**Github Pages**: Github can be used to render static sites (like this one).  Its a super useful skill/resource.  We'll cover it down the line.

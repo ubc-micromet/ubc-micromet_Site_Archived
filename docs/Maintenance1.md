@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Routine Maintenance Procedures
-parent: Field Sites
+title: Maintenance Procedures
+parent: Documentation
 has_children: True
 nav_order: 1
 ---
 
-#  Monthly Maintenance Procedures
+#  Maintenance Procedures
 {: .no_toc }
 
-This page details the steps for maintaining and calibrating EC sensors at our flux sites.  Under normal operating conditions, maintenance trips should occur every 4-6 weeks for each site.  **At least two** lab members are required on each trip.  BB1 & BB2 should always be visited on the same trip.  DSM & RBM can also be visited in one trip to save fuel.
+This section covers general procedures for doing maintenance and calibration at our flux sites.  Under normal operating conditions, maintenance trips should occur every 4-6 weeks for each site.  **At least two** lab members are required on each trip.  Whenever possible BB1 & BB2 should always be visited on the same trip.  DSM & RBM can also be visited in one trip to save fuel.
 
 <details open markdown="block">
   <summary>
@@ -87,8 +87,8 @@ Head lamp																	|In fall/winter
 
 Task                                                       | Sites | Notes
 -----------------------------------------------------------|-------|-------------------------------------------------------
-**0**{: .label .label-blue}Check/clean Radiometers         | All   |[Clenaing procedures](Cleaning.md)
-**1**{: .label .label-blue}Clean IRGAs                     | All   |[Clenaing procedures](Cleaning.md)
+**0**{: .label .label-blue}Check/clean Radiometers         | All   |[Cleaning procedures](Cleaning.md)
+**1**{: .label .label-blue}Clean IRGAs                     | All   |[Cleaning procedures](Cleaning.md)
 **2**{: .label .label-blue}Calibrate IRGAs                 | All   |[Calibration procedures](Calibration.md)
 **3**{: .label .label-blue}Check Rain Gauge                | All   |If clogged, unscrew top and clean funnel
 **4**{: .label .label-blue}Check SWC Sensor                | All?  |Ensure it is still positioned correctly 
