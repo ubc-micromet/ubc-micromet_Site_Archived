@@ -31,14 +31,12 @@ These are best done the afternoon/evening before a trip, although you many not b
 
 Task                                      | Notes
 ------------------------------------------|-------------------------------------------------------
-Check Field Log(s)                        |[BB1 & BB2](https://docs.google.com/spreadsheets/d/1phokxNzc-gJkWIO1zGLUFsSeRgjsq0HE8QAfLlrlNyI/edit#gid=0) - *same sheet different tabs*, [DSM](https://docs.google.com/spreadsheets/d/1USa7IDpj0D79C8OfFDEoDFKIwjKt0LdVh5fMt04BgpI/edit#gid=0), [RBM](https://docs.google.com/spreadsheets/d/114pSwgLBPEeqIezTTIJ4a4Z3kaJhgRvSJZAls8mEOrI?authuser=thruhikerflash%40gmail.com&usp=drive_fs)
+Check Field Log(s)                        |[BB sites](https://docs.google.com/spreadsheets/d/1phokxNzc-gJkWIO1zGLUFsSeRgjsq0HE8QAfLlrlNyI/edit#gid=0) - , [DSM](https://docs.google.com/spreadsheets/d/1USa7IDpj0D79C8OfFDEoDFKIwjKt0LdVh5fMt04BgpI/edit#gid=0), [RBM](https://docs.google.com/spreadsheets/d/114pSwgLBPEeqIezTTIJ4a4Z3kaJhgRvSJZAls8mEOrI?authuser=thruhikerflash%40gmail.com&usp=drive_fs)
 Book Micromet Truck                       |See Gcal **Add Link**
-Check Fire Rating													|Burns Bog Permit holders should get fire danger rating updates from - Andy.Gogel@metrovancouver.org
+Check Fire Rating													|Burns Bog Permit holders get fire danger ratings from - Andy.Gogel@metrovancouver.org
 Charge Field Laptop 				              |
 Review Field Safety Plan  	              |Ensure you have [Safety Plan](https://docs.google.com/document/d/10oR-eGiVsKmVsdubLDZIrw4zpO6-J2H0/edit?usp=sharing&ouid=101091249538878226246&rtpof=true&sd=true) 
 
-
-### **To Do**: Post & Link to field work safety plan.
 
 <h2 align='center'>Equipment needed for site visits</h2>
 
@@ -46,15 +44,15 @@ Items                                     | Notes
 ------------------------------------------|-------------------------------------------------------
 Site Keys		    		                      |**Note** A list of all keys might be helpful?
 Tools					  		                      |BB1 & BB2 have tools on site.  DSM & RMB do no.  Tools should be kept together in lab.  You will need: Wrenches, Screwdrivers (Robinson, Phillips, flat).
-Field Laptop & Cables                     |Will also need Ethernet cable w/ USB converter dongle, RS 232 cable w/ serial bus converter dongle
+Field Laptop & Cables                     |Will need Ethernet cable w/ USB converter dongle, RS 232 cable w/ serial bus converter dongle, DC2AC Charger Converter
 Two empty USB sticks                      |
-Cleaning wipes                            |Check relevant field logs to see if washer fluid is also needed
+Cleaning wipes & Fluid                    |Check relevant field logs to see if washer fluid is also needed
 Manual WT tape measure                    |**Just BB Sites?**
-Desiccant             		                |**BB1 & BB2**: 5 bags/site, **DSM**: 7 bags - 2 for logger box, 2 for power box, 2 for charger box, 1 for LI-7550 box, **RBM**: ...
+Desiccant             		          |**BB1 & BB2**: 5 bags/site, **DSM**: 7 bags - 2 for logger box, 2 for power box, 2 for charger box, 1 for LI-7550 box, **RBM**: ...
 LI 7700 Calibration Shield                |**Only for DSM & RMB** BB1 & BB2 have ones on site.
-Battery & memory card for wildlife camera |**As needed or every trip?**
+Battery & memory card for wildlife camera | Format cards before use
 **First Aid & PPE**                       |First Aid kits: White metal one to stay in vehicle, red pouch carried to sites. Other PPE as needed - Hi-Vis vests, helmets (primarily for work around tower)
-Chest Waders or Boots	  									|Boots are okay in summer, waders necessary in winter
+Chest Waders or Boots	  		  |Boots are okay at DSM & RBM, waders necessary at BB sites, except in summer
 
 <h2 align='center'>Seasonally dependent equipment</h2>
 
@@ -75,7 +73,7 @@ Head lamp																	|In fall/winter
 	* Call 604-520-6442 (leave msg if no answer)
 * **In Summer** park away from the grass, spray the car tire with water.
 
-### **To Do**: Include site directions & link to field site navigation map/embed map.
+[Site Access Map](https://ubc-micromet.github.io/FieldSiteMaps/)
 
 ---
 
