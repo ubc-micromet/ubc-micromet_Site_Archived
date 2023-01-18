@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Field Sites
-has_children: True
+# has_children: True
 nav_order: 2
 ---
 
